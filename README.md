@@ -1,28 +1,16 @@
-# EPT Sudoku Puzzler
-
-![image](https://github.com/AymenLass/Sudoku/assets/142843487/52a9ebf6-79f5-46d1-a051-7a985dfa37b9)
-
-## Description
-
-This is a Sudoku solver and game developed in C using the SDL 2.0 library. The program allows users to solve Sudoku puzzles or play the game interactively. It provides features like puzzle generation, solving, and validation.
+EPT Sudoku Puzzler is an engaging Sudoku solver and game developed in C using the SDL 2.0 library. It offers both puzzle-solving capabilities and an interactive gaming experience, all wrapped in a user-friendly graphical interface.
 
 ## Features
 
-- Solve Sudoku puzzles algorithmically.
-- Interactive gameplay with a graphical user interface.
-- Puzzle generation with various difficulty levels.
-- Validation of user-entered solutions.
-- Option to save and load Sudoku puzzles.
+- **Sudoku Solver**: Quickly and efficiently solve Sudoku puzzles using advanced algorithms.
+- **Interactive Gameplay**: Enjoy an immersive gaming experience with a visually appealing GUI.
+- **Puzzle Generation**: Generate Sudoku puzzles with varying difficulty levels to challenge yourself.
+- **Solution Validation**: Verify the correctness of your solution in real-time.
+- **Save and Load**: Save your progress or load previous puzzles for continuous enjoyment.
 
 ## Requirements
 
-- C compiler (CLion recommended)
-- SDL 2.0 library
+To run EPT Sudoku Puzzler, ensure you have the following dependencies:
 
-
-- Thanks to the SDL development team for providing the SDL 2.0 library.
-- Special thanks to [mention any contributors or resources you used].
-
----
-
-Remember to replace placeholders like `your_username`, `feature_name`, and `sudoku_image.png` with appropriate values. Also, provide a suitable image (`sudoku_image.png` in this case) to illustrate your project.
+- **C Compiler**: We recommend using CLion for smooth development and compilation.
+- **SDL 2.0 Library**: Make sure to have SDL 2.0 installed to leverage its powerful graphics capabilities.
