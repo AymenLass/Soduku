@@ -1,0 +1,10 @@
+"C:\Program Files\JetBrains\CLion 2023.3.4\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=C:/Program Files/JetBrains/CLion 2023.3.4/bin/ninja/win/x64/ninja.exe" -G Ninja -S C:\Users\user\Desktop\libraries\projects -B C:\Users\user\Desktop\libraries\projects\cmake-build-debug
+-- Configuring done (0.1s)
+CMake Warning at CMakeLists.txt:58 (target_link_libraries):
+  Target "projects" requests linking to directory
+  "C:/Users/user/Desktop/libraries/SDL2-2.30.1/x86_64-w64-mingw32/lib".
+  Targets may link only to libraries.  CMake is dropping the item.
+
+
+-- Generating done (0.0s)
+-- Build files have been written to: C:/Users/user/Desktop/libraries/projects/cmake-build-debug
