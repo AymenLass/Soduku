@@ -17,6 +17,7 @@ This is a Sudoku solver and game developed in C using the SDL 2.0 library. The p
 - C compiler (CLion recommended)
 - SDL 2.0 library
 
+## Some pictures from the developed game 
 
 ![image](https://github.com/AymenLass/Sudoku/assets/142843487/52a9ebf6-79f5-46d1-a051-7a985dfa37b9)
 
