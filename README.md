@@ -1,16 +1,16 @@
-# EPT Sudoku Puzzler
+# EPT Soduku Puzzler
 
 ## Description
 
-This is a Sudoku solver and game developed in C using the SDL 2.0 library. The program allows users to solve Sudoku puzzles or play the game interactively. It provides features like puzzle generation, solving, and validation.
+This is a Soduku solver and game developed in C using the SDL 2.0 library. The program allows users to solve Soduku puzzles or play the game interactively. It provides features like puzzle generation, solving, and validation.
 
 ## Features
 
-- Solve Sudoku puzzles algorithmically.
+- Solve Soduku puzzles algorithmically.
 - Interactive gameplay with a graphical user interface.
 - Puzzle generation with various difficulty levels.
 - Validation of user-entered solutions.
-- Option to save and load Sudoku puzzles.
+- Option to save and load Soduku puzzles.
 
 ## Requirements
 
