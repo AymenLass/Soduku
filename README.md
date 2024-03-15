@@ -1,16 +1,25 @@
-EPT Sudoku Puzzler is an engaging Sudoku solver and game developed in C using the SDL 2.0 library. It offers both puzzle-solving capabilities and an interactive gaming experience, all wrapped in a user-friendly graphical interface.
+# EPT Sudoku Puzzler
+
+## Description
+
+This is a Sudoku solver and game developed in C using the SDL 2.0 library. The program allows users to solve Sudoku puzzles or play the game interactively. It provides features like puzzle generation, solving, and validation.
 
 ## Features
 
-- **Sudoku Solver**: Quickly and efficiently solve Sudoku puzzles using advanced algorithms.
-- **Interactive Gameplay**: Enjoy an immersive gaming experience with a visually appealing GUI.
-- **Puzzle Generation**: Generate Sudoku puzzles with varying difficulty levels to challenge yourself.
-- **Solution Validation**: Verify the correctness of your solution in real-time.
-- **Save and Load**: Save your progress or load previous puzzles for continuous enjoyment.
+- Solve Sudoku puzzles algorithmically.
+- Interactive gameplay with a graphical user interface.
+- Puzzle generation with various difficulty levels.
+- Validation of user-entered solutions.
+- Option to save and load Sudoku puzzles.
 
 ## Requirements
 
-To run EPT Sudoku Puzzler, ensure you have the following dependencies:
+- C compiler (CLion recommended)
+- SDL 2.0 library
 
-- **C Compiler**: We recommend using CLion for smooth development and compilation.
-- **SDL 2.0 Library**: Make sure to have SDL 2.0 installed to leverage its powerful graphics capabilities.
+
+![image](https://github.com/AymenLass/Sudoku/assets/142843487/52a9ebf6-79f5-46d1-a051-7a985dfa37b9)
+
+![image](https://github.com/AymenLass/Sudoku/assets/142843487/3d6e909b-ea00-45ec-ac94-4cfd9fd9e3f5)
+
+![image](https://github.com/AymenLass/Sudoku/assets/142843487/feebeb10-b6c6-4143-a98e-734531dd9a17)
